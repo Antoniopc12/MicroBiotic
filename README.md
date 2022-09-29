@@ -1,2 +1,2 @@
 # MicroBiotic
-## Vamo ahi el reyo macuin
+## Vamo ahi el rayo macuin
