@@ -16,7 +16,6 @@
 /* COMENTARIOS  : 1 tabulador = 8 espacios                                    */
                 
 /* **************************************************************************	*/
-//probando
 #include <stdint.h>
 #include <stdbool.h>
 // Librerias que se incluyen tipicamente para configuracion de perifericos y pinout
